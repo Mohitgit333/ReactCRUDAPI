@@ -1,0 +1,41 @@
+trigger:
+  - main
+
+pool:
+  name: MohitAgent1212
+  demands:
+    - Agent.Name -equals MohitAgent1212
+
+steps:
+  - task: UseDotNet@2
+    displayName: 'Install .NET 8 SDK'
+    inputs:
+      packageType: 'sdk'
+      version: '8.x'
+
+  - script: dotnet restore src/React_CRUD_WebAPI/React_CRUD_WebAPI.csproj
+    displayName: 'Restore API'
+
+  - script: dotnet build src/React_CRUD_WebAPI/React_CRUD_WebAPI.csproj --configuration Release --no-restore
+    displayName: 'Build API'
+
+  - script: dotnet publish src/React_CRUD_WebAPI/React_CRUD_WebAPI.csproj --configuration Release --output $(Build.ArtifactStagingDirectory)/publish
+    displayName: 'Publish API'
+
+  - task: ArchiveFiles@2
+    displayName: 'Create Deployment Package'
+    inputs:
+      rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/publish'
+      includeRootFolder: false
+      archiveType: 'zip'
+      archiveFile: '$(Build.ArtifactStagingDirectory)/React_CRUD_WebAPI.zip'
+      replaceExistingArchive: true
+
+  - task: AzureWebApp@1
+    displayName: 'Deploy to Azure Web App'
+    inputs:
+      azureSubscription: 'MukeshServiceConnection1111'
+      appType: 'webApp'
+      appName: 'MukeshWebApp1111'
+      package: '$(Build.ArtifactStagingDirectory)/React_CRUD_WebAPI.zip'
+      deploymentMethod: 'zipDeploy'
