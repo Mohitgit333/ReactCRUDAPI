@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\react_crud_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:react_crud_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\programold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:programold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\react_crud_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FED670B-1A83-44D6-8524-47E7F8BB05EE}|React_CRUD_WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-05T16:54:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "React_CRUD_WebAPI",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\React_CRUD_WebAPI.csproj",
+              "RelativeDocumentMoniker": "React_CRUD_WebAPI.csproj",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\React_CRUD_WebAPI.csproj",
+              "RelativeToolTip": "React_CRUD_WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T16:49:32.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T16:48:59.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:17:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramOld.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\ProgramOld.cs",
+              "RelativeDocumentMoniker": "ProgramOld.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\ProgramOld.cs",
+              "RelativeToolTip": "ProgramOld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:16:13.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T16:14:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\React_CRUD_WebAPI\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:13:19.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
